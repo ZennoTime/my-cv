@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background-color: #f0f0f0;
+  }
+  
+  h1, h2, h3 {
+    color: #00698f;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden; 
+  }
+  
+  .photo-container {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .photo {
+    max-width: 100%;
+    height: 200px;
+    object-fit: cover; 
+    border-radius: 90%;
+    margin: 10px;
+  }
+  
+  
+  
